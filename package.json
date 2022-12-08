@@ -1,0 +1,14 @@
+{
+  "name": "aeneid9223",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufa24h thai | Play168 ⭐ ufa24h ยูฟ่าเบท บริการคาสิโนสด เล่นผ่านมือถือได้ทุกระบบ",
+  "keywords": [
+    "ufa24h thai | Play168 ⭐ ufa24h ยูฟ่าเบท บริการคาสิโนสด เล่นผ่านมือถือได้ทุกระบบ"
+  ],
+  "repository": "https://github.com/gardinabread89/aeneid9223",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
